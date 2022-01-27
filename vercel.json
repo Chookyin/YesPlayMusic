@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://neteasecloudmusic.chookyin.cn"
+      "destination": "https://neteasecloudmusic.chookyin.cn/:match*"
     }
   ]
 }
